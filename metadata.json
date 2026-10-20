@@ -1,0 +1,6 @@
+{
+  "name": "Bachon Ki Dunia - Premium Kids Clothing",
+  "description": "Pakistan's premier kids clothing brand for summer and winter wear. High-quality boys, girls, baby clothing, matching sets, and accessories with nationwide cash on delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
